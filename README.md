@@ -1,6 +1,6 @@
 # Hi, I’m Devin
 
-💻 Computer Science + Artificial Intelligence Major | 💡 Building Projects and Games | 🛡️ Aspiring Game & Cloud Developer
+💻 Computer Science + Artificial Intelligence Major | 💡 Building Projects and Games | 🛡️ Aspiring Game Developer
 
 👀 I’m interested in Warhammer, Game Development, 3D Modeling, and more
 
