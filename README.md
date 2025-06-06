@@ -17,3 +17,7 @@
 
 ## 📫 Contact Information
 doctorangler91@gmail.com
+
+### My Inspirations
+
+![alt text](https://cdn.discordapp.com/attachments/974463463273427038/1380353251634970695/Inspirations_1.png?ex=684391a4&is=68424024&hm=9e2d2ff25ad867f51d9e341f9e68d020ac63bef00c13b958b68a955220b74ec7& "Logo Title Text 1")
