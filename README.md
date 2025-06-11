@@ -18,6 +18,3 @@
 ## 📫 Contact Information
 doctorangler91@gmail.com
 
-### My Inspirations
-
-![alt text](https://imgur.com/a/seKKNOE "Logo Title Text 1")
